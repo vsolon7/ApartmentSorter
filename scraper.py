@@ -26,12 +26,15 @@ for URL in URLsToScrape:
 for x in range(0, len(pagesToScrape)):
    bsPages.append(bs.BeautifulSoup(pagesToScrape[x], 'lxml'))
 
-#their website is stupid and has different names for the div class listings for some reason
-#i used a regular expression. they're very cool. this finds everything that begins with "level"
+#so in this, the outer loop goes through all the beautiful soup pages. the inner loop looks through everything
+#and stores it.
 for page in bsPages:
+    #this is a regular expression. it finds everything that begins with "level". their site was weird and they all started with different things
     allListings = page.find_all("div", {"class":re.compile("^level")})
 
+    #goes through every listing in the list of all apartment listings. lol.
     for listing in allListings:
+        #this will store the data for a single apartment. will later be appended to a list of lists that has all apartments
         tempDataSet = []
         #regular expressions are so good
         propInfo = listing.find_all("div", {"class":re.compile("^propertyInfo xs-")})
@@ -44,7 +47,7 @@ for page in bsPages:
         #get the address, i removed the commas to help put it in a .csv
         tempDataSet.append(propInfo[0].find_all("span", {"itemprop":"address"})[0].text.strip().replace(',', ''))
 
-        #get the name of the apartment
+        #get the name of the post
         for name in propInfo[0].find_all('a'):
             tempDataSet.append(name.get('title'))
 
@@ -52,10 +55,10 @@ for page in bsPages:
         for link in propInfo[0].find_all('a'):
             tempDataSet.append(link.get('href'))
 
+        #add it to the list of apartments found
         apartmentScrapeList.append(tempDataSet)
 
-print(apartmentScrapeList)
-
+#i know theres better ways to write to a .csv, but eh
 scrapeOutput = open('ApartmentData/scrapedData.csv', 'w')
 string = 'PRICE,ADDRESS,NAME,URL'
 for x in apartmentScrapeList:
