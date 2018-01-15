@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d40f72e6-4f92-4719-8421-07b181c44409" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scraper.py" afterPath="$PROJECT_DIR$/scraper.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -354,7 +353,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516033190262</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="edited some comments. I should clarify that the scraper and the sorter do not yet work together. That's the next task.">
+      <created>1516033453801</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1516033453801</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -391,7 +397,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added a web scraper and some files to automatically scrape and store some data. Next I'll need to scrape each individual URL to get the square footage data, etc" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added a web scraper and some files to automatically scrape and store some data. Next I'll need to scrape each individual URL to get the square footage data, etc" />
+    <MESSAGE value="edited some comments. I should clarify that the scraper and the sorter do not yet work together. That's the next task." />
+    <option name="LAST_COMMIT_MESSAGE" value="edited some comments. I should clarify that the scraper and the sorter do not yet work together. That's the next task." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
