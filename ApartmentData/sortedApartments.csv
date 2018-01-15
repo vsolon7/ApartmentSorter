@@ -1,24 +1,500 @@
-1023,2800 La Frontera Blvd Round Rock TX 78681,1163,4,0.6168602499887189
-895,1111 Sunrise Rd Round Rock TX 78664,860,0,0.5931866793014756
-850,1200 Sunrise Dr Round Rock TX 78664,755,4,0.5864044943820225
-1056,1301 N AW Grimes Blvd Round Rock TX 78665,1164,4,0.5449799196787148
-1020,2001 Magnolia Dr Round Rock TX 78664,1068,0,0.5274193402824783
-991,2501 Louis Henna Blvd Round Rock TX 78664,1002,4,0.5247339921483687
-1014,901 Hidden Valley Dr Round Rock TX 78665,1034,4,0.5062903298587609
-945,1101 Georgetown St Round Rock TX 78664,863,4,0.48577862009837103
-975,1525 Palm Valley Blvd Round Rock TX 78664,925,4,0.4822101890708903
-1067,1301 N AW Grimes Blvd Round Rock TX 78665,1101,4,0.4569748657551555
-1099,941 Hesters Crossing Rd Round Rock TX 78681,1163,4,0.4489887640449438
-1018,300 S AW Grimes Blvd Round Rock TX 78664,970,4,0.4327358873697036
-978,700 Louis Henna Blvd Round Rock TX 78664,850,4,0.3997409864175805
-1085,2800 Sunrise Ranch Rd Round Rock TX 78665,1083,4,0.39901358241956597
-995,600 Greenhill Dr Round Rock TX 78665,886,4,0.39859527999639005
-1033,1111 S Creek Dr Round Rock TX 78664,950,4,0.379378638148098
-1050,1200 Sam Bass Cir Round Rock TX 78681,980,4,0.37216551599657055
-995,1801 E Palm Valley Blvd Round Rock TX 78664,850,4,0.36219078561436757
-949,2100 Willowbend Dr Round Rock TX 78664,719,4,0.3313253012048193
-1050,101 E Bowman Dr Round Rock TX 78664,918,4,0.3094688867830874
-1078,2811 La Frontera Blvd Austin TX 78728,979,4,0.30930689048328147
-1069,20404 Poppy Hills Trl Round Rock TX 78664,958,4,0.3079504534993909
-1039,1200 S Mays St Round Rock TX 78664,850,4,0.2650020305942873
-1069,20404 Poppy Hills Trl Round Rock TX 78664,868,4,0.2169392175443347
+895,3120, Austin, 501 Hardin Ct Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/501-Hardin-Ct-Apartments-0x7jhq3,0.28685897435897434
+596,1150, Austin, 1950 Webberville Rd Austin TX 78721, https://www.apartmentfinder.com/Texas/Austin-Apartments/Heritage-Pointe-Apartments,0.5182608695652174
+581,894, Austin, 2704 Rio Grande St Austin TX 78705, https://www.apartmentfinder.com/Texas/Austin-Apartments/Rio-West-Student-Housing-Apartments-hmp6np0,0.6498881431767338
+560,828, Austin, 1515 Wickersham Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/Ballpark-East-Apartments,0.6763285024154589
+661,976, Austin, 1070 Mearns Meadow Blvd Austin TX 78758, https://www.apartmentfinder.com/Texas/Austin-Apartments/Arbors-Of-Austin-Apts-Apartments-wxz9gqj,0.6772540983606558
+1179,1679, Austin, 4500 Steiner Ranch Blvd Austin TX 78732, https://www.apartmentfinder.com/Texas/Austin-Apartments/Meritage-At-Steiner-Ranch-Apartments,0.7022036926742108
+635,887, Austin, 2021-2025 Guadalupe St Austin TX 78705, https://www.apartmentfinder.com/Texas/Austin-Apartments/Dobie-Twenty21-Student-Spaces-Apartments-z8cctgy,0.7158962795941376
+735,1005, Austin, 1301 Crossing Pl Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/University-Village-At-Austin-Apartments,0.7313432835820896
+823,1087, Austin, 8000 Decker Ln Austin TX 78724, https://www.apartmentfinder.com/Texas/Austin-Apartments/Eagles-Landing-Apartments,0.7571297148114076
+803,1050, Austin, 6600 Ed Bluestein Blvd Austin TX 78723, https://www.apartmentfinder.com/Texas/Austin-Apartments/Sixty-600-Apartments-lb78b5e,0.7647619047619048
+1095,1430, Austin, 9008 Quail Valley Dr Austin TX 78758, https://www.apartmentfinder.com/Texas/Austin-Apartments/9008-Quail-Valley-Dr-Apartments-39gfvze,0.7657342657342657
+1065,1350, Austin, 9811 Copper Crk Austin TX 78729, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Hendrix-Apartment-Homes-Apartments,0.7888888888888889
+610,766, Austin, 1600 Wickersham Ln Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/Ballpark-West-Apartments-7txwrrx,0.7963446475195822
+925,1150, Austin, 500 E Anderson Ln Austin TX 78752, https://www.apartmentfinder.com/Texas/Austin-Apartments/Towne-Oaks-I-Apartments-zjb88ww,0.8043478260869565
+900,1095, Austin, 4709 Harmon Ave Austin TX 78751, https://www.apartmentfinder.com/Texas/Austin-Apartments/Village-Of-47-Apartments,0.821917808219178
+1095,1320, Cedar Park, 2201 S Lakeline Blvd Cedar Park TX 78613, https://www.apartmentfinder.com/Texas/Cedar-Park-Apartments/Lakeline-Villas-Apartments,0.8295454545454546
+820,975, Austin, 2906 E Martin Luther King Jr Blvd Austin TX 78702, https://www.apartmentfinder.com/Texas/Austin-Apartments/M-Station-Apartments,0.841025641025641
+833,976, Austin, 1833 Cheddar Loop Austin TX 78728, https://www.apartmentfinder.com/Texas/Austin-Apartments/Allegre-Point-Apartments,0.8534836065573771
+655,765, Austin, 1109 S Pleasant Valley Rd Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/Town-Lake-Apartments,0.8562091503267973
+992,1150, Austin, 8220 Research Blvd Austin TX 78758, https://www.apartmentfinder.com/Texas/Austin-Apartments/8220-Research-Blvd-Apartments-77pr7jw,0.8626086956521739
+928,1062, Austin, 8801 N FM 620 Austin TX 78726, https://www.apartmentfinder.com/Texas/Austin-Apartments/Sonterra-Luxury-Apartment-Homes-Apartments,0.8738229755178908
+895,1024, Georgetown, 2212 Katy Ln Georgetown TX 78626, https://www.apartmentfinder.com/Texas/Georgetown-Apartments/2212-Katy-Ln-Apartments-x9em5vn,0.8740234375
+895,1024, Georgetown, 2214 Katy Ln Georgetown TX 78626, https://www.apartmentfinder.com/Texas/Georgetown-Apartments/2214-Katy-Ln-Apartments-esxhv3q,0.8740234375
+930,1060, Austin, 7581 Chevy Chase Dr Austin TX 78752, https://www.apartmentfinder.com/Texas/Austin-Apartments/Chevy-Chase-Apartments,0.8773584905660378
+1045,1189, Austin, 9900 McNeil Dr Austin TX 78750, https://www.apartmentfinder.com/Texas/Austin-Apartments/Hyde-Park-At-Ribelin-Ranch-Apartments,0.8788898233809924
+1023,1163, Round Rock, 2800 La Frontera Blvd Round Rock TX 78681, https://www.apartmentfinder.com/Texas/Round-Rock-Apartments/Enclave-At-La-Frontera-Apartments,0.8796216680997421
+865,980, Austin, 7224 Northeast Dr Austin TX 78723, https://www.apartmentfinder.com/Texas/Austin-Apartments/Trails-At-Vintage-Creek-Apartments,0.8826530612244898
+1000,1130, Austin, 10301 Farm-to-Market Rd 2222 Rd 2222 Austin TX 78730, https://www.apartmentfinder.com/Texas/Austin-Apartments/Ravina-Apartment-Homes-Apartments-gb6mrry,0.8849557522123894
+940,1062, Austin, 9801 W Parmer Ln Austin TX 78717, https://www.apartmentfinder.com/Texas/Austin-Apartments/Sycamore-Springs-Apartments,0.8851224105461394
+1162,1311, Austin, 8600 N FM 620 Austin TX 78726, https://www.apartmentfinder.com/Texas/Austin-Apartments/8600-N-Fm-620-Apartments-6lqjpbs,0.8863463005339436
+905,1012, Austin, 12435 Dessau Rd Austin TX 78754, https://www.apartmentfinder.com/Texas/Austin-Apartments/Harris-Branch-Apartments,0.8942687747035574
+680,760, Austin, 4600 Elmont Dr Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/Ballpark-North-Apartments-ccvrb1d,0.8947368421052632
+850,947, Austin, 11028 Jollyville Rd Austin TX 78759, https://www.apartmentfinder.com/Texas/Austin-Apartments/High-Oaks-Apartment-Homes-Apartments,0.8975712777191129
+960,1069, Austin, 3501 Shoreline Dr Austin TX 78728, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Nine-On-Shoreline-Apartments-lzh5lcg,0.8980355472404116
+905,1007, Austin, 6200 Loyola Ln Austin TX 78724, https://www.apartmentfinder.com/Texas/Austin-Apartments/Park-Place-At-Loyola-Apartments,0.8987090367428004
+925,1025, Austin, 615 Wonsley Dr E Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/Towne-Oaks-II-Apartments,0.9024390243902439
+1127,1247, Austin, 12001 Dessau Rd Austin TX 78754, https://www.apartmentfinder.com/Texas/Austin-Apartments/Ascent-North-Apartments-zcshxvw,0.9037690457097033
+859,950, Austin, 9345 E State Highway 290 Austin TX 78724, https://www.apartmentfinder.com/Texas/Austin-Apartments/Rosemont-At-Hidden-Creek-Apartments,0.9042105263157895
+925,1020, Austin, 8403 Colony Loop Dr Austin TX 78724, https://www.apartmentfinder.com/Texas/Austin-Apartments/8403-Colony-Loop-Dr-Apartments-vvjwlfe,0.9068627450980392
+1057,1164, Round Rock, 1301 N AW Grimes Blvd Round Rock TX 78665, https://www.apartmentfinder.com/Texas/Round-Rock-Apartments/Palm-Valley-Apartments,0.9080756013745704
+1138,1253, Austin, 13730 FM 620 N Austin TX 78717, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Royal-Apartments,0.9082202713487629
+875,960, Austin, 9601 Middle Fiskville Rd Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/Mira-Vista-Apartments,0.9114583333333334
+990,1084, Austin, 3201 Century Park Blvd Austin TX 78727, https://www.apartmentfinder.com/Texas/Austin-Apartments/Madison-At-Wells-Branch-Apartments,0.9132841328413284
+950,1040, Austin, 8225 N FM 620 Austin TX 78726, https://www.apartmentfinder.com/Texas/Austin-Apartments/Abelia-Flats-Apartments-cd7re9f,0.9134615384615384
+980,1072, Austin, 6934 E Ben White Blvd Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Pointe-At-Ben-White-Apartments,0.914179104477612
+1019,1100, Austin, 15433 FM 1325 Austin TX 78728, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Waters-At-Willow-Run-Apartments,0.9263636363636364
+895,965, Austin, 8200-8220 Research Blvd Austin TX 78758, https://www.apartmentfinder.com/Texas/Austin-Apartments/Park-At-Crestview-Apartments,0.927461139896373
+1011,1089, Austin, 7655 N Ranch Road 620 Austin TX 78726, https://www.apartmentfinder.com/Texas/Austin-Apartments/Tintara-At-Canyon-Creek-Apartments,0.928374655647383
+1056,1137, Austin, 9807 N FM 620 Austin TX 78726, https://www.apartmentfinder.com/Texas/Austin-Apartments/9807-N-Fm-620-Apartments-hv4qpb0,0.9287598944591029
+1128,1211, Cedar Park, 3000 Colonial Pky Cedar Park TX 78613, https://www.apartmentfinder.com/Texas/Cedar-Park-Apartments/Colonial-Grand-At-Silverado-Reserve-Apartments,0.9314616019818331
+799,857, Austin, 8312 N Interstate 35 Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/Woodland-Heights-Apartments,0.9323220536756126
+865,925, Austin, 502 W Longspur Blvd Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/Club-Creek-Apartments,0.9351351351351351
+890,950, Austin, 1601 Royal Crest Dr Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/Solaris-Apartments,0.9368421052631579
+949,1005, Austin, 8600 FM 620 N Austin TX 78726, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Verandah-At-Grandview-Hills-Apartments-zxd4nrw,0.9442786069651742
+1099,1163, Round Rock, 941 Hesters Crossing Rd Round Rock TX 78681, https://www.apartmentfinder.com/Texas/Round-Rock-Apartments/Lakeside-At-La-Frontera-Apartments,0.944969905417025
+745,787, Austin, 1300 Crossing Pl Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/University-Estates-At-Austin-Apartments,0.9466327827191868
+960,1014, Austin, 1901 E Anderson Ln Austin TX 78752, https://www.apartmentfinder.com/Texas/Austin-Apartments/Avesta-Agave-Falls-Apartments,0.9467455621301775
+880,928, Austin, 14745 Merrilltown Austin TX 78728, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Lodge-At-Merrilltown-Senior-Community-Apartments-pmxqf2s,0.9482758620689655
+1150,1211, Round Rock, 1800 Plateau Vista Blvd Round Rock TX 78664, https://www.apartmentfinder.com/Texas/Round-Rock-Apartments/Colonial-Grand-At-Round-Rock-Apartments,0.9496284062758051
+903,950, Pflugerville, 16701 N Heatherwilde Blvd Pflugerville TX 78660, https://www.apartmentfinder.com/Texas/Pflugerville-Apartments/Rosemont-At-Heather-Bend-Apartments,0.9505263157894737
+977,1025, Austin, 9500 Jollyville Rd Austin TX 78759, https://www.apartmentfinder.com/Texas/Austin-Apartments/Evolvearboretum-Apartments-gkwm5rz,0.953170731707317
+979,1027, Austin, 1773 Wells Branch Pky Austin TX 78728, https://www.apartmentfinder.com/Texas/Austin-Apartments/Preserve-Wells-Branch-Apartments-zb3cqvx,0.9532619279454723
+1150,1200, Austin, 8416 Fathom Cir Austin TX 78750, https://www.apartmentfinder.com/Texas/Austin-Apartments/8416-Fathom-Cir-Apartments-fnvlqys,0.9583333333333334
+1015,1057, Austin, 10015 Lake Creek Pky Austin TX 78729, https://www.apartmentfinder.com/Texas/Austin-Apartments/Legends-At-Lake-Creek-Apartments-242f1qb,0.9602649006622517
+995,1036, Austin, 600 Barwood Park Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/Remington-House-Apartments,0.9604247104247104
+1035,1076, Austin, 13401 Metric Blvd Austin TX 78727, https://www.apartmentfinder.com/Texas/Austin-Apartments/Madison-At-Scofield-Farms-Apartments,0.9618959107806692
+1165,1209, Austin, 6800 McNeil Dr Austin TX 78729, https://www.apartmentfinder.com/Texas/Austin-Apartments/Madison-At-Stone-Creek-Apartments,0.9636062861869313
+978,1013, Austin, 10910 N FM 620 Austin TX 78726, https://www.apartmentfinder.com/Texas/Austin-Apartments/Windy-Ridge-Apartments,0.9654491609081934
+1049,1086, Hutto, 150 Klattenhoff Ln Hutto TX 78634, https://www.apartmentfinder.com/Texas/Hutto-Apartments/The-Fairways-At-Star-Ranch-Apartments,0.9659300184162063
+928,959, Round Rock, 300 S AW Grimes Blvd Round Rock TX 78664, https://www.apartmentfinder.com/Texas/Round-Rock-Apartments/Colonial-Grand-At-Ashton-Oaks-Apartments,0.9676746611053181
+901,931, Austin, 8701 W Parmer Ln Austin TX 78729, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Artisan-Luxury-Apartment-Homes-Apartments,0.9677765843179377
+1057,1089, Austin, 12820 N Lamar Blvd Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Villages-Of-Sage-Creek-Apartments,0.970615243342516
+975,1002, Leander, 3000 N Lakeline Blvd Leander TX 78641, https://www.apartmentfinder.com/Texas/Leander-Apartments/Lakeline-Apartments,0.9730538922155688
+950,976, Austin, 7303 Twin Crest Dr Austin TX 78752, https://www.apartmentfinder.com/Texas/Austin-Apartments/7303-Twin-Crest-Dr-Apartments-1861g96,0.9733606557377049
+1006,1032, Cedar Park, 1700 Bagdad Rd Cedar Park TX 78613, https://www.apartmentfinder.com/Texas/Cedar-Park-Apartments/Tuckaway-Apartment-Homes-Apartments-q4e86fw,0.9748062015503876
+967,991, Taylor, 405 Sloan St Taylor TX 76574, https://www.apartmentfinder.com/Texas/Taylor-Apartments/Burnett-Place-Apartments,0.9757820383451059
+879,900, Austin, 3543 Greystone Dr Austin TX 78731, https://www.apartmentfinder.com/Texas/Austin-Apartments/Westdale-Parke-Apartments,0.9766666666666667
+1038,1061, Austin, 9501 N FM 620 Austin TX 78726, https://www.apartmentfinder.com/Texas/Austin-Apartments/Colonial-Grand-At-Canyon-Creek-Apartments,0.9783223374175306
+1014,1034, Round Rock, 901 Hidden Valley Dr Round Rock TX 78665, https://www.apartmentfinder.com/Texas/Round-Rock-Apartments/Las-Brisas-Luxury-Apartment-Homes-Apartments,0.9806576402321083
+986,1005, Austin, 8600 N FM 620 Austin TX 78726, https://www.apartmentfinder.com/Texas/Austin-Apartments/8600-N-Fm-620-Apartments-xhvhegp,0.981094527363184
+1155,1176, Austin, 9400 W Parmer Ln Austin TX 78717, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Ranch-Apartments,0.9821428571428571
+775,786, Lago Vista, 21465 Coyote Trl Lago Vista TX 78645, https://www.apartmentfinder.com/Texas/Lago-Vista-Apartments/21465-Coyote-Trl-Apartments-xs9t94n,0.9860050890585241
+988,1002, Round Rock, 2501 Louis Henna Blvd Round Rock TX 78664, https://www.apartmentfinder.com/Texas/Round-Rock-Apartments/Montelena-Apartments,0.9860279441117764
+1159,1174, Austin, 13021 Legendary Dr Austin TX 78727, https://www.apartmentfinder.com/Texas/Austin-Apartments/Villas-At-Stone-Oak-Ranch-Apartments,0.9872231686541738
+850,860, Round Rock, 1501 Lawnmont Dr Round Rock TX 78664, https://www.apartmentfinder.com/Texas/Round-Rock-Apartments/Apple-Creek-Apartments,0.9883720930232558
+850,860, Round Rock, 1111 Sunrise Rd Round Rock TX 78664, https://www.apartmentfinder.com/Texas/Round-Rock-Apartments/1111-Sunrise-Rd-Apartments-mx36f6k,0.9883720930232558
+915,921, Austin, 9200 North Plz Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/Park-At-Stone-Creek-Apartments,0.993485342019544
+975,980, Austin, 9300 Northgate Blvd Austin TX 78758, https://www.apartmentfinder.com/Texas/Austin-Apartments/Avalon-Palms-Apartments,0.9948979591836735
+1138,1140, Austin, 6263 McNeil Dr Austin TX 78729, https://www.apartmentfinder.com/Texas/Austin-Apartments/Colonial-Village-At-Quarry-Oaks-Apartments,0.9982456140350877
+899,900, Austin, 12151 I-35 N Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/Silver-Springs-Apartments,0.9988888888888889
+999,1000, Austin, 3101 Shoreline Dr Austin TX 78728, https://www.apartmentfinder.com/Texas/Austin-Apartments/Hunt-Club-Austin-Apartments,0.999
+1000,1000, Austin, 8810 Schick Rd Austin TX 78729, https://www.apartmentfinder.com/Texas/Austin-Apartments/8810-Schick-Rd-Apartments-qem8nby,1.0
+1008,1008, Pflugerville, 19600 Heatherwilde Blvd Pflugerville TX 78660, https://www.apartmentfinder.com/Texas/Pflugerville-Apartments/Westchester-Woods-Apartments,1.0
+1085,1084, Austin, 8021 N FM 620 Austin TX 78726, https://www.apartmentfinder.com/Texas/Austin-Apartments/Nolina-Flats-Apartments-85s21m3,1.0009225092250922
+1194,1192, Pflugerville, 901 New Meister Ln Pflugerville TX 78660, https://www.apartmentfinder.com/Texas/Pflugerville-Apartments/Villas-At-Spring-Trails-Apartments,1.0016778523489933
+1085,1083, Round Rock, 2800 Sunrise Ranch Rd Round Rock TX 78665, https://www.apartmentfinder.com/Texas/Round-Rock-Apartments/City-North-At-Sunrise-Ranch-Apartments,1.0018467220683287
+1099,1095, Austin, 5303 Indio Cv Austin TX 78745, https://www.apartmentfinder.com/Texas/Austin-Apartments/5303-Indio-Cv-Apartments-k1ymw29,1.0036529680365296
+978,970, Austin, 9715 N FM 620 Austin TX 78726, https://www.apartmentfinder.com/Texas/Austin-Apartments/Colonial-Grand-At-Canyon-Pointe-Apartments,1.0082474226804123
+1025,1015, Austin, 11015 Four Points Dr Austin TX 78726, https://www.apartmentfinder.com/Texas/Austin-Apartments/Cardinal-Point-Apartments-9hxvsv6,1.0098522167487685
+1071,1057, Austin, 8701 Bluffstone Cv Austin TX 78759, https://www.apartmentfinder.com/Texas/Austin-Apartments/Canyon-Resort-At-Great-Hills-Apartments-2vylmfb,1.0132450331125828
+1165,1149, Austin, 8800 Highway 290 W Austin TX 78736, https://www.apartmentfinder.com/Texas/Austin-Apartments/Fox-Hill-Apartments,1.0139251523063533
+969,951, Austin, 12425 Mellow Meadow Dr Austin TX 78750, https://www.apartmentfinder.com/Texas/Austin-Apartments/Audubon-Square-Apartments,1.0189274447949528
+1108,1087, Cedar Park, 3001 Colonial Pky Cedar Park TX 78613, https://www.apartmentfinder.com/Texas/Cedar-Park-Apartments/Colonial-Grand-At-Silverado-Apartments,1.0193192272309108
+995,975, Austin, 1114 Camino La Costa Austin TX 78752, https://www.apartmentfinder.com/Texas/Austin-Apartments/Magnolia-Court-Apartments,1.0205128205128204
+899,880, Austin, 2510 Leon St Austin TX 78705, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Block-On-Leon-Apartments,1.021590909090909
+1120,1096, Austin, 11210 FM 2222 Austin TX 78730, https://www.apartmentfinder.com/Texas/Austin-Apartments/Bell-Four-Points-Apartments-j253lh7,1.0218978102189782
+905,884, Austin, 400 W Anderson Ln Austin TX 78752, https://www.apartmentfinder.com/Texas/Austin-Apartments/Austin-Parke-Apartments,1.0237556561085972
+1177,1148, Austin, 8054 Exchange Dr Austin TX 78754, https://www.apartmentfinder.com/Texas/Austin-Apartments/Creekstone-Apartments,1.0252613240418118
+905,882, Austin, 7117 Wood Hollow Dr Austin TX 78731, https://www.apartmentfinder.com/Texas/Austin-Apartments/Westdale-Pointe-Apartments-n3eb19q,1.026077097505669
+1011,985, Leander, 1350 Sonny Dr Leander TX 78641, https://www.apartmentfinder.com/Texas/Leander-Apartments/Merritt-Legacy-Apartments,1.0263959390862945
+1000,974, Austin, 12403 Mellow Meadow Dr Austin TX 78750, https://www.apartmentfinder.com/Texas/Austin-Apartments/Westwood-Apartments,1.0266940451745379
+950,925, Austin, 11411 Research Blvd Austin TX 78759, https://www.apartmentfinder.com/Texas/Austin-Apartments/Wind-River-Crossing-Apartments,1.027027027027027
+995,968, Round Rock, 2750 Sunrise Rd Round Rock TX 78665, https://www.apartmentfinder.com/Texas/Round-Rock-Apartments/Waters-At-Sunrise-Apartments-v2xtt3f,1.0278925619834711
+1112,1080, Austin, 12215 Hunters Chase Dr Austin TX 78729, https://www.apartmentfinder.com/Texas/Austin-Apartments/Alister-Balcones-Apartments-cctr0ld,1.0296296296296297
+1115,1082, Austin, 5701 S MO PAC Expy Austin TX 78749, https://www.apartmentfinder.com/Texas/Austin-Apartments/River-Stone-Ranch-Apartments,1.0304990757855823
+850,823, Austin, 8202 Riverstone Dr Austin TX 78724, https://www.apartmentfinder.com/Texas/Austin-Apartments/8202-Riverstone-Dr-Apartments-v9lwfcf,1.0328068043742407
+920,889, Cedar Park, 335 Cypress Creek Rd Cedar Park TX 78613, https://www.apartmentfinder.com/Texas/Cedar-Park-Apartments/Cypress-Gardens-Apartments,1.0348706411698538
+1177,1137, Austin, 9807 Ranch Road 620 N Austin TX 78726, https://www.apartmentfinder.com/Texas/Austin-Apartments/Griffis-Canyon-Creek-Apartments,1.0351802990325418
+990,956, Austin, 12148 Jollyville Rd Austin TX 78759, https://www.apartmentfinder.com/Texas/Austin-Apartments/Shadow-Oaks-Apartments,1.0355648535564854
+994,959, Elgin, 13817 County Line Rd Elgin TX 78621, https://www.apartmentfinder.com/Texas/Elgin-Apartments/Crescent-Village-Apartments,1.0364963503649636
+1100,1059, Austin, 1845 River Crossing Cir Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/River-Crossing-Townhomes-Apartments,1.0387157695939566
+1200,1154, Austin, 6280 McNeil Ranch Dr Austin TX 78729, https://www.apartmentfinder.com/Texas/Austin-Apartments/Mcneil-Ranch-Apartments,1.0398613518197575
+974,936, Austin, 2810 Hemphill Park Austin TX 78705, https://www.apartmentfinder.com/Texas/Austin-Apartments/Villas-On-Guadalupe-Apartments,1.0405982905982907
+1020,980, Austin, 8001 Hwy 71 W Austin TX 78736, https://www.apartmentfinder.com/Texas/Austin-Apartments/Settlers-Creek-Apartments,1.0408163265306123
+1009,969, Austin, 714 W 22nd St Austin TX 78705, https://www.apartmentfinder.com/Texas/Austin-Apartments/Grayson-House-Apartments,1.0412796697626419
+1050,1008, Austin, 3822 Southway Dr Austin TX 78704, https://www.apartmentfinder.com/Texas/Austin-Apartments/3822-Southway-Dr-Apartments-c81v5ef,1.0416666666666667
+1044,1002, Austin, 2000 Cedar Bend Dr Austin TX 78758, https://www.apartmentfinder.com/Texas/Austin-Apartments/Walnut-Creek-Crossing-Apartments,1.0419161676646707
+1185,1137, Austin, 9807 N FM 620 Austin TX 78726, https://www.apartmentfinder.com/Texas/Austin-Apartments/9807-N-Fm-620-Apartments-9debs06,1.04221635883905
+1010,969, Austin, 10926 Jollyville Rd Austin TX 78759, https://www.apartmentfinder.com/Texas/Austin-Apartments/Village-Oaks-Apartments,1.0423116615067078
+950,911, Austin, 11316 Jollyville Rd Austin TX 78759, https://www.apartmentfinder.com/Texas/Austin-Apartments/Canyon-Creek-Apartment-Homes-Apartments,1.0428100987925357
+872,836, Austin, 701 W Longspur Blvd W Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/Longspur-Crossing-Apartments,1.0430622009569377
+1050,1004, Austin, 1720 W Wells Branch Pky Austin TX 78728, https://www.apartmentfinder.com/Texas/Austin-Apartments/Milan-Apartments,1.045816733067729
+1050,1004, Austin, 1318 Southport Dr Austin TX 78704, https://www.apartmentfinder.com/Texas/Austin-Apartments/1318-Southport-Dr-Apartments-gnr9h4y,1.045816733067729
+850,812, Austin, 9435 Middle Fiskville Rd Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/Colonial-Square-Apartments-nldh55p,1.0467980295566504
+995,950, Austin, 4210 Red River St Austin TX 78751, https://www.apartmentfinder.com/Texas/Austin-Apartments/Century-Plaza-Apartments,1.0473684210526315
+995,950, Austin, 12166 Metric Blvd Austin TX 78758, https://www.apartmentfinder.com/Texas/Austin-Apartments/12166-Metric-Blvd-Apartments-9wskss5,1.0473684210526315
+1015,969, Austin, 12433 Dessau Rd Austin TX 78754, https://www.apartmentfinder.com/Texas/Austin-Apartments/Harris-Branch-Seniors-62-Better-Apartments-vvxemee,1.0474716202270382
+1002,955, Austin, 9301 Spectrum Dr Austin TX 78717, https://www.apartmentfinder.com/Texas/Austin-Apartments/Ventana-Oaks-Luxury-Apartment-Homes-Apartments,1.0492146596858638
+1000,950, Austin, 901 E 40th St Austin TX 78751, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Granada-III-Apartments,1.0526315789473684
+975,925, Round Rock, 1525 Palm Valley Blvd Round Rock TX 78664, https://www.apartmentfinder.com/Texas/Round-Rock-Apartments/The-Creek-Apartments,1.054054054054054
+1040,985, Austin, 1016 Camino La Costa Austin TX 78752, https://www.apartmentfinder.com/Texas/Austin-Apartments/Villas-Of-La-Costa-Apartments,1.0558375634517767
+1027,972, Austin, 2250 Ridgepoint Dr Austin TX 78754, https://www.apartmentfinder.com/Texas/Austin-Apartments/Promontory-Point-Apartments,1.0565843621399178
+1057,1000, Pflugerville, 15711 Dessau Rd Pflugerville TX 78660, https://www.apartmentfinder.com/Texas/Pflugerville-Apartments/Cambridge-Villas-Apartments,1.057
+1000,946, Austin, 5800 Wellington Dr Austin TX 78723, https://www.apartmentfinder.com/Texas/Austin-Apartments/Mueller-Place-Apartments,1.0570824524312896
+935,884, Austin, 11282 Taylor Draper Ln Austin TX 78759, https://www.apartmentfinder.com/Texas/Austin-Apartments/Channings-Mark-Apartment-Homes-Apartments,1.0576923076923077
+1013,957, Austin, 7000 E Ben White Blvd Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Villages-At-Ben-White-55-Apartments-qwyj16x,1.058516196447231
+953,900, Austin, 12342 Hunters Chase Dr Austin TX 78729, https://www.apartmentfinder.com/Texas/Austin-Apartments/Hunters-Chase-Apartments,1.058888888888889
+1099,1037, Austin, 3400 Shoreline Dr Austin TX 78728, https://www.apartmentfinder.com/Texas/Austin-Apartments/Parkside-Crossing-Apartments,1.059787849566056
+969,914, Austin, 2430 Cromwell Cir Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/Lexington-Hills-Apartments,1.0601750547045952
+1020,960, Austin, 7227 Hwy 290 E Austin TX 78723, https://www.apartmentfinder.com/Texas/Austin-Apartments/Penbrook-Club-Apartments,1.0625
+850,798, Taylor, 1213 Vance St Taylor TX 76574, https://www.apartmentfinder.com/Texas/Taylor-Apartments/Lakeview-Apartments-8b8cmp3,1.0651629072681705
+1095,1028, Austin, 9009 N FM 620 Austin TX 78726, https://www.apartmentfinder.com/Texas/Austin-Apartments/Monterone-Canyon-Creek-Apartments,1.0651750972762646
+1041,976, Austin, 1034 Clayton Ln Austin TX 78723, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Timbers-Apartments,1.0665983606557377
+1000,935, Georgetown, 805 Quail Valley Dr Georgetown TX 78626, https://www.apartmentfinder.com/Texas/Georgetown-Apartments/Georgetown-Place-Apartments,1.0695187165775402
+1110,1037, Austin, 11266 Taylor Draper Ln Austin TX 78759, https://www.apartmentfinder.com/Texas/Austin-Apartments/Northland-Museo-Apartments,1.0703953712632595
+1060,990, Austin, 1616 Royal Crest Dr Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/Jewel-Apartments-tt2e8yc,1.0707070707070707
+1050,980, Round Rock, 1200 Sam Bass Cir Round Rock TX 78681, https://www.apartmentfinder.com/Texas/Round-Rock-Apartments/1200-Sam-Bass-Cir-Apartments-5ecc1qp,1.0714285714285714
+1175,1093, Austin, 1212 Westheimer Dr Austin TX 78752, https://www.apartmentfinder.com/Texas/Austin-Apartments/Triple-Crown-2-Apartments,1.0750228728270814
+1019,947, Cedar Park, 350 Cypress Creek Rd Cedar Park TX 78613, https://www.apartmentfinder.com/Texas/Cedar-Park-Apartments/Regal-Parc-Apartments-sx49gq4,1.0760295670538542
+989,919, Austin, 8712 Old Manor Rd Austin TX 78724, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Terrace-At-Walnut-Creek-Apartments-3h0g0wf,1.0761697497279652
+1095,1014, Austin, 8908 Schick Rd Austin TX 78729, https://www.apartmentfinder.com/Texas/Austin-Apartments/8908-Schick-Rd-Apartments-qe2xfcy,1.0798816568047338
+1000,925, Austin, 5700 Cameron Rd Austin TX 78723, https://www.apartmentfinder.com/Texas/Austin-Apartments/Cameron-Greens-Apartments,1.0810810810810811
+1000,925, Austin, 901 E 40th St Austin TX 78751, https://www.apartmentfinder.com/Texas/Austin-Apartments/901-E-40th-St-Apartments-4j4vwvk,1.0810810810810811
+1028,950, Round Rock, 1111 S Creek Dr Round Rock TX 78664, https://www.apartmentfinder.com/Texas/Round-Rock-Apartments/Colonial-Village-At-Sierra-Vista-Apartments,1.0821052631578947
+1026,948, Austin, 3111 Parker Ln Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/Montecito-Apartments,1.0822784810126582
+1120,1034, Austin, 2505 Longview St Austin TX 78705, https://www.apartmentfinder.com/Texas/Austin-Apartments/Axis-West-Campus-Apartments,1.0831721470019342
+975,900, Austin, 1500 Reagan Hill Dr Austin TX 78752, https://www.apartmentfinder.com/Texas/Austin-Apartments/Las-Colinas-Apartments,1.0833333333333333
+975,900, Austin, 6511 Melrose Trl Austin TX 78727, https://www.apartmentfinder.com/Texas/Austin-Apartments/Melrose-Place-Apartments,1.0833333333333333
+1040,960, Austin, 1500 Royal Crest Dr Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Element-Austin-Apartments,1.0833333333333333
+1050,968, Austin, 6103 Manor Rd Austin TX 78723, https://www.apartmentfinder.com/Texas/Austin-Apartments/Vanitas-Urban-Flats-Apartments-psrh4ws,1.084710743801653
+1053,970, Cedar Park, 11300 W Parmer Ln W Cedar Park TX 78613, https://www.apartmentfinder.com/Texas/Cedar-Park-Apartments/Silverado-At-Brushy-Creek-Apartments,1.0855670103092783
+932,858, Austin, 6407 Springdale Rd Austin TX 78723, https://www.apartmentfinder.com/Texas/Austin-Apartments/Rare-Apartments-lcbhcge,1.0862470862470863
+864,793, Austin, 1200-1201 Broadmoor Dr Austin TX 78723, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Heritage-At-Hillcrest-Apartments-nc1lwcm,1.08953341740227
+1043,956, Austin, 12330 Metric Blvd Austin TX 78758, https://www.apartmentfinder.com/Texas/Austin-Apartments/Enclave-At-Waters-Edge-Apartment-Homes-Apartments-05zg401,1.0910041841004183
+1065,976, Austin, 3601 Willow Springs Rd Austin TX 78704, https://www.apartmentfinder.com/Texas/Austin-Apartments/Woodwillow-Townhomes-Apartments,1.091188524590164
+965,883, Austin, 11701 Metric Blvd Austin TX 78758, https://www.apartmentfinder.com/Texas/Austin-Apartments/Bradford-Pointe-Apartments,1.0928652321630805
+897,820, Austin, 8900 N Interstate 35 Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/Avesta-Capella-Apartments,1.0939024390243903
+1095,1000, Austin, 1835 Burton Dr Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/Lafayette-Apartments,1.095
+945,863, Round Rock, 1101 Georgetown St Round Rock TX 78664, https://www.apartmentfinder.com/Texas/Round-Rock-Apartments/Summerset-Apartments,1.0950173812282735
+986,900, Austin, 1088 Park Plaza Dr Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/Forest-Park-Apartments,1.0955555555555556
+945,860, Austin, 9971 Quail Blvd Austin TX 78758, https://www.apartmentfinder.com/Texas/Austin-Apartments/A-Country-Place-Apartments,1.0988372093023255
+965,878, Austin, 8805 N Plaza Dr Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/Pebble-Creek-Apartments,1.0990888382687927
+1150,1046, Round Rock, 1700 University Blvd Round Rock TX 78665, https://www.apartmentfinder.com/Texas/Round-Rock-Apartments/Bell-At-Teravista-Apartments,1.0994263862332696
+995,904, Austin, 1710-1720 Woodward St Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/Polaris-On-The-Park-Apartments,1.1006637168141593
+1145,1040, Round Rock, 1801 Warner Ranch Dr Round Rock TX 78664, https://www.apartmentfinder.com/Texas/Round-Rock-Apartments/The-Lodge-At-Warner-Ranch-Apartments,1.1009615384615385
+1078,979, Austin, 2811 La Frontera Blvd Austin TX 78728, https://www.apartmentfinder.com/Texas/Austin-Apartments/Griffis-On-La-Frontera-Apartments-jeshnd4,1.101123595505618
+903,819, Austin, 11215 Research Blvd Austin TX 78759, https://www.apartmentfinder.com/Texas/Austin-Apartments/Balcones-Woods-Apartments,1.1025641025641026
+1150,1043, Austin, 12800 Harrisglen Dr Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/Settlers-Ridge-Apartments,1.102588686481304
+1060,961, Austin, 11500 Jollyville Rd Austin TX 78759, https://www.apartmentfinder.com/Texas/Austin-Apartments/Northland-At-The-Arboretum-Apartments,1.1030176899063475
+950,861, Austin, 1915 Wells Branch Pky Austin TX 78728, https://www.apartmentfinder.com/Texas/Austin-Apartments/Park-At-Wells-Branch-Apartments,1.1033681765389083
+1029,932, Austin, 11908 Anderson Mill Rd Austin TX 78726, https://www.apartmentfinder.com/Texas/Austin-Apartments/Bridge-At-Volente-Apartments-p6n1zkv,1.104077253218884
+962,871, Austin, 1831 Wells Branch Pky Austin TX 78728, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Arbors-Of-Wells-Branch-Apartments,1.1044776119402986
+1105,1000, Round Rock, 2700 N A W Grimes Blvd Round Rock TX 78665, https://www.apartmentfinder.com/Texas/Round-Rock-Apartments/Chandler-Creek-Apartments,1.105
+989,895, Cedar Park, 1600 S Lakeline Blvd Cedar Park TX 78613, https://www.apartmentfinder.com/Texas/Cedar-Park-Apartments/Red-Stone-Ranch-Apartments,1.1050279329608939
+1050,950, Austin, 8804 Schick Rd Austin TX 78729, https://www.apartmentfinder.com/Texas/Austin-Apartments/8804-Schick-Rd-Apartments-d027zwk,1.105263157894737
+1100,995, Pflugerville, 15835 Foothill Farms Loop Pflugerville TX 78660, https://www.apartmentfinder.com/Texas/Pflugerville-Apartments/Sage-At-1825-Apartments-tsrzjyc,1.1055276381909547
+995,900, Austin, 13005 Heinemann Dr Austin TX 78727, https://www.apartmentfinder.com/Texas/Austin-Apartments/Melrose-Trail-Apartments-y36nc3v,1.1055555555555556
+995,900, Austin, 8909 Parkfield Dr Austin TX 78758, https://www.apartmentfinder.com/Texas/Austin-Apartments/8909-Parkfield-Dr-Apartments-m48b73l,1.1055555555555556
+995,900, Austin, 2406 Mission Hill Dr Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/2406-Mission-Hill-Dr-Apartments-t02ry9b,1.1055555555555556
+995,900, Austin, 12166 Metric Blvd Austin TX 78758, https://www.apartmentfinder.com/Texas/Austin-Apartments/12166-Metric-Blvd-Apartments-f91kbvt,1.1055555555555556
+1053,950, Austin, 2201 Montopolis Dr Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/Towne-Vista-Apartments,1.108421052631579
+1145,1032, Austin, 7011 W Parmer Ln W Austin TX 78729, https://www.apartmentfinder.com/Texas/Austin-Apartments/Bell-Tech-Corridor-Apartments,1.1094961240310077
+1179,1060, Austin, 12349 Metric Blvd Austin TX 78758, https://www.apartmentfinder.com/Texas/Austin-Apartments/Camden-Huntingdon-Apartments,1.1122641509433961
+910,817, Austin, 8800 N Interstate 35 Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/Avesta-Solano-Apartments,1.1138310893512853
+1150,1031, Round Rock, 700 Rollingway Dr Round Rock TX 78681, https://www.apartmentfinder.com/Texas/Round-Rock-Apartments/700-Rollingway-Dr-Apartments-44jmyyl,1.1154219204655673
+975,874, Austin, 9219 Anderson Mill Rd Austin TX 78729, https://www.apartmentfinder.com/Texas/Austin-Apartments/Parkside-Apartments,1.1155606407322654
+1090,977, Austin, 2008 W Loop Austin TX 78758, https://www.apartmentfinder.com/Texas/Austin-Apartments/2008-W-Loop-Apartments-hc3xqv3,1.1156601842374616
+855,762, Austin, 605 Masterson Pass Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/Arrowhead-Park-Apartments,1.1220472440944882
+1147,1022, Austin, 3625 Duval Rd Austin TX 78759, https://www.apartmentfinder.com/Texas/Austin-Apartments/San-Marin-Apartments,1.1223091976516635
+995,886, Round Rock, 600 Greenhill Dr Round Rock TX 78665, https://www.apartmentfinder.com/Texas/Round-Rock-Apartments/Crystal-Creek-Apartments,1.1230248306997743
+1025,912, Austin, 12113 Metric Blvd Austin TX 78758, https://www.apartmentfinder.com/Texas/Austin-Apartments/Madison-At-Walnut-Creek-Apartments,1.1239035087719298
+1175,1045, Austin, 12800 Center Lake Dr Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Bridge-At-Tech-Ridge-Apartments,1.124401913875598
+1048,932, Austin, 4501 E Riverside Dr Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/Country-Club-Creek-Apartments,1.1244635193133048
+1071,951, Austin, 4821 E Riverside Dr Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/4821-E-Riverside-Dr-Apartments-82q50z0,1.1261829652996846
+1087,963, Austin, 8527 N Capital Of Texas Hwy N Austin TX 78759, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Falls-On-Bull-Creek-Apartments,1.1287642782969887
+1074,951, Austin, 4821 Riverside Dr E Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/Hillside-Place-Apartments,1.1293375394321767
+1135,1005, Austin, 1806 W Rundberg Ln Austin TX 78758, https://www.apartmentfinder.com/Texas/Austin-Apartments/1806-W-Rundberg-Ln-Apartments-12jd3d6,1.1293532338308458
+1105,978, Austin, 9218 Balcones Club Dr Austin TX 78750, https://www.apartmentfinder.com/Texas/Austin-Apartments/Balcones-Club-Apartments,1.1298568507157465
+899,795, Austin, 1511 Faro Dr Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/Wildcreek-Apartments,1.130817610062893
+1149,1016, Austin, 1911 Willow Creek Dr Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/1911-Willow-Creek-Dr-Apartments-3m32f0g,1.1309055118110236
+950,840, Austin, 5500 Rose Hill Cir Austin TX 78745, https://www.apartmentfinder.com/Texas/Austin-Apartments/5500-Rose-Hill-Cir-Apartments-t41f7hc,1.130952380952381
+1058,934, Austin, 1801 Wells Branch Pky Austin TX 78728, https://www.apartmentfinder.com/Texas/Austin-Apartments/Chardonnay-At-Wells-Branch-Apartments,1.1327623126338329
+850,750, Pflugerville, 1001 Nimbus Dr Pflugerville TX 78660, https://www.apartmentfinder.com/Texas/Pflugerville-Apartments/1825-Cottages-Apartments,1.1333333333333333
+1134,1000, Austin, 1930 W Rundberg Ln Austin TX 78758, https://www.apartmentfinder.com/Texas/Austin-Apartments/Ironhorse-Flats-Apartments-nv4et0m,1.134
+1125,992, Austin, 2601 Penny Ln Austin TX 78757, https://www.apartmentfinder.com/Texas/Austin-Apartments/Abbey-Road-Apartments,1.1340725806451613
+1025,902, Austin, 5605 Springdale Rd Austin TX 78723, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Reserve-At-Springdale-Apartments-lpjl5rf,1.1363636363636365
+1060,932, Austin, 2000 Burton Dr Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/Array-Apartments-95g0ew6,1.1373390557939915
+1099,966, Austin, 8810 Tallwood Dr Austin TX 78759, https://www.apartmentfinder.com/Texas/Austin-Apartments/Arbors-At-Tallwood-Apartments,1.1376811594202898
+1195,1050, Austin, 12443 Tech Ridge Blvd Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/Mandalay-Apartment-Homes-Apartments-yvez7qr,1.138095238095238
+1190,1045, Austin, 701 Center Ridge Dr Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Bridge-At-Center-Ridge-Apartments,1.138755980861244
+1025,900, Austin, 3417 Willowrun Dr Austin TX 78704, https://www.apartmentfinder.com/Texas/Austin-Apartments/3417-Willowrun-Dr-Apartments-vg2m93d,1.1388888888888888
+1025,900, Cedar Park, 900 Discovery Blvd Cedar Park TX 78613, https://www.apartmentfinder.com/Texas/Cedar-Park-Apartments/Arboleda-Apartment-Homes-Apartments-62ywdts,1.1388888888888888
+1195,1049, Austin, 1015 E Yager Ln Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/1015-E-Yager-Ln-Apartments-jkwvgh7,1.1391801715919925
+935,820, Austin, 10610 Morado Cir Austin TX 78759, https://www.apartmentfinder.com/Texas/Austin-Apartments/Great-Hills-Apartments,1.1402439024390243
+1199,1050, Austin, 9600 Woodvale Dr Austin TX 78729, https://www.apartmentfinder.com/Texas/Austin-Apartments/9600-Woodvale-Dr-Apartments-n7nh4vn,1.141904761904762
+949,830, Austin, 1910 Willow Creek Dr Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/Point-South-And-Bridgehollow-Apartments,1.1433734939759037
+1075,940, Austin, 1507 Houston St Austin TX 78756, https://www.apartmentfinder.com/Texas/Austin-Apartments/Oak-Creek-Apartments,1.1436170212765957
+915,800, Austin, 7401 N Lamar Blvd Austin TX 78752, https://www.apartmentfinder.com/Texas/Austin-Apartments/Joplin-At-Crestview-Apartments-4f6z98k,1.14375
+1050,918, Round Rock, 101 E Bowman Dr Round Rock TX 78664, https://www.apartmentfinder.com/Texas/Round-Rock-Apartments/Bowmans-Walk-Apartments,1.1437908496732025
+1095,956, Austin, 13145 N Highway 183 Austin TX 78750, https://www.apartmentfinder.com/Texas/Austin-Apartments/Elan-Apartment-Homes-Apartments,1.145397489539749
+1100,960, Pflugerville, 1720 Grand Avenue Pky Pflugerville TX 78660, https://www.apartmentfinder.com/Texas/Pflugerville-Apartments/Broadstone-Grand-Avenue-Apartments,1.1458333333333333
+1195,1042, Austin, 1720 Wells Branch Pky Austin TX 78728, https://www.apartmentfinder.com/Texas/Austin-Apartments/1720-Wells-Branch-Pky-Apartments-hrn93p0,1.1468330134357005
+999,871, Austin, 2201 Willow Creek Dr Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/Forest-Hills-Apartments,1.1469575200918485
+1099,958, Round Rock, 413 Pasadera Ln Round Rock TX 78664, https://www.apartmentfinder.com/Texas/Round-Rock-Apartments/413-Pasadera-Ln-Apartments-2gj0pp8,1.1471816283924843
+978,850, Round Rock, 700 Louis Henna Blvd Round Rock TX 78664, https://www.apartmentfinder.com/Texas/Round-Rock-Apartments/Madison-Dell-Ranch-Apartments-pdeqd2v,1.1505882352941177
+900,782, Austin, 2104 E Anderson Ln Austin TX 78752, https://www.apartmentfinder.com/Texas/Austin-Apartments/Salado-At-Walnut-Creek-Apartments,1.1508951406649617
+944,820, Austin, 2501 W Pearl St Austin TX 78705, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Block-On-25th-West-Apartments,1.1512195121951219
+950,825, Austin, 1101 Clayton Ln Austin TX 78723, https://www.apartmentfinder.com/Texas/Austin-Apartments/1101-Clayton-Ln-Apartments-w1mtc3l,1.1515151515151516
+1095,950, Austin, 5001 Bull Creek Rd Austin TX 78731, https://www.apartmentfinder.com/Texas/Austin-Apartments/5001-Bull-Creek-Rd-Apartments-r0cw961,1.1526315789473685
+1095,950, Austin, 903 Romeria Dr Austin TX 78757, https://www.apartmentfinder.com/Texas/Austin-Apartments/903-Romeria-Dr-Apartments-dp33rmk,1.1526315789473685
+1150,996, Austin, 1210 Southport Dr Austin TX 78704, https://www.apartmentfinder.com/Texas/Austin-Apartments/1210-Southport-Dr-Apartments-g7vqn9z,1.1546184738955823
+1100,952, Austin, 5810 Sweeney Cir Austin TX 78723, https://www.apartmentfinder.com/Texas/Austin-Apartments/5810-Sweeney-Cir-Apartments-9sd9gy4,1.1554621848739495
+1069,925, Austin, 2504 Huntwick Dr Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/Chevy-Chase-Downs-Apartments,1.1556756756756756
+1158,1000, Austin, 1911 Willow Creek Dr Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/1911-Willow-Creek-Dr-Apartments-nncknwq,1.158
+950,820, Austin, 8905 Parkfield Dr Austin TX 78758, https://www.apartmentfinder.com/Texas/Austin-Apartments/8905-Parkfield-Dr-Apartments-xvnyy0q,1.1585365853658536
+985,850, Austin, 14100 Thermal Dr Austin TX 78728, https://www.apartmentfinder.com/Texas/Austin-Apartments/Churchill-Crossing-Apartments,1.1588235294117648
+1049,904, Austin, 1720 Woodward St Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/1720-Woodward-St-Apartments-mpb0hvj,1.1603982300884956
+1097,945, Austin, 5230 Thunder Creek Rd Austin TX 78759, https://www.apartmentfinder.com/Texas/Austin-Apartments/Keystone-Apartments,1.1608465608465608
+1029,886, Austin, 600 W 26th St Austin TX 78705, https://www.apartmentfinder.com/Texas/Austin-Apartments/26-West-Apartments,1.1613995485327313
+1095,942, Austin, 10507 Mellow Meadow Austin TX 78750, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Meadows-Apartments,1.1624203821656052
+950,815, Austin, 10300 Golden Meadow Dr Austin TX 78758, https://www.apartmentfinder.com/Texas/Austin-Apartments/Brook-Meadow-Village-Apartments,1.165644171779141
+1079,925, Austin, 2425 Cromwell Cir Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/Coppertree-Apartments,1.1664864864864866
+894,765, Austin, 8519 Cahill Dr Austin TX 78729, https://www.apartmentfinder.com/Texas/Austin-Apartments/Polo-Club-Apartments,1.1686274509803922
+1153,985, Austin, 1630 Wells Branch Pky W Austin TX 78728, https://www.apartmentfinder.com/Texas/Austin-Apartments/Colonial-Grand-At-Wells-Branch-Apartments,1.1705583756345177
+995,850, Round Rock, 1801 E Palm Valley Blvd Round Rock TX 78664, https://www.apartmentfinder.com/Texas/Round-Rock-Apartments/Rocking-Horse-Ranch-Apartments,1.1705882352941177
+995,850, Austin, 1611 Payton Gin Rd Austin TX 78758, https://www.apartmentfinder.com/Texas/Austin-Apartments/Peyton-Place-Apartments,1.1705882352941177
+1089,930, Austin, 8605 Shoal Creek Blvd Austin TX 78757, https://www.apartmentfinder.com/Texas/Austin-Apartments/Shoal-Creek-North-Apartments,1.1709677419354838
+1114,951, Austin, 4821 E Riverside Dr Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/4821-E-Riverside-Dr-Apartments-ny9r7xm,1.1713985278654049
+1078,920, Austin, 1071 Clayton Ln Austin TX 78723, https://www.apartmentfinder.com/Texas/Austin-Apartments/Mueller-Flats-Apartments,1.1717391304347826
+955,815, Cedar Park, 403 Buttercup Creek Blvd Cedar Park TX 78613, https://www.apartmentfinder.com/Texas/Cedar-Park-Apartments/Buttercup-Creek-Apartments,1.1717791411042944
+1070,912, AUSTIN, 3401 W PARMER Ln AUSTIN TX 78727, https://www.apartmentfinder.com/Texas/Austin-Apartments/Waters-Park-Apartments,1.1732456140350878
+1057,900, Austin, 1881 Grove Blvd Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/Grove-Place-Apartments,1.1744444444444444
+1081,920, Austin, 12001 Metric Blvd Austin TX 78758, https://www.apartmentfinder.com/Texas/Austin-Apartments/Northstar-Apartments-7zxjzjz,1.175
+1175,1000, Austin, 12501 Tech Ridge Blvd Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/San-Paloma-Apartments,1.175
+1000,850, Austin, 2317 S Pleasant Valley Rd Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/Trio-Apartments,1.1764705882352942
+1150,977, Austin, 2008 West Loop Austin TX 78758, https://www.apartmentfinder.com/Texas/Austin-Apartments/2008-West-Loop-Apartments-fh3125t,1.1770726714431934
+995,845, Austin, 11441 N IH 35 Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/Cricket-Hollow-Apartments,1.1775147928994083
+1003,851, Austin, 12007 N Lamar Blvd Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/On-The-Green-Apartments,1.1786133960047003
+1171,991, Austin, 1730-1730 E Oltorf St Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/Hillside-Creek-Apartments,1.1816347124117053
+1006,850, Austin, 3209 S IH 35 Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/Mission-Grace-Woods-Apartments,1.183529411764706
+1026,866, Austin, 14000 Renaissance Ct Austin TX 78728, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Lakes-At-Renaissance-Park-Apartments,1.1847575057736721
+1185,1000, Austin, 300 Ferguson Dr Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/Lotus-Village-Apartments,1.185
+895,755, Round Rock, 1200 Sunrise Dr Round Rock TX 78664, https://www.apartmentfinder.com/Texas/Round-Rock-Apartments/Sunchase-Apartments,1.185430463576159
+1099,926, Austin, 2601 Scofield Ridge Pky Austin TX 78727, https://www.apartmentfinder.com/Texas/Austin-Apartments/Scofield-Park-At-Austin-Apartments,1.1868250539956804
+950,800, Austin, 8005 Georgian Dr Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/Georgian-Apartments-b2kl33b,1.1875
+1022,860, Austin, 1911-1911 Willow Creek Dr Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/Avesta-Altura-Apartments-ffm07ws,1.1883720930232557
+1100,925, Austin, 901 E 40th St Austin TX 78751, https://www.apartmentfinder.com/Texas/Austin-Apartments/901-E-40th-St-Apartments-jhf65n4,1.1891891891891893
+1163,977, Austin, 15510 Ranch Road 620 Rd Austin TX 78717, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Marquis-At-Brushy-Creek-Apartments,1.1903787103377688
+1200,1008, Austin, 7020 Grand Canyon Dr Austin TX 78752, https://www.apartmentfinder.com/Texas/Austin-Apartments/Canyon-Trails-Apartment-Homes-Apartments-z08049w,1.1904761904761905
+1095,919, Pflugerville, 1525 Grand Avenue Pky Pflugerville TX 78660, https://www.apartmentfinder.com/Texas/Pflugerville-Apartments/Riverhorse-Ranch-Apartments,1.191512513601741
+989,830, Austin, 2200 Willow Creek Dr Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/Point-South-Apartments,1.191566265060241
+1045,875, Austin, 1735 Rutland Dr Austin TX 78758, https://www.apartmentfinder.com/Texas/Austin-Apartments/Vida-Apartments-f1qlqgv,1.1942857142857144
+1075,900, Austin, 1304 Mckie Dr Austin TX 78752, https://www.apartmentfinder.com/Texas/Austin-Apartments/1304-Mckie-Dr-Apartments-cwpf8wd,1.1944444444444444
+1075,900, Austin, 527 Cutty Trl Austin TX 78734, https://www.apartmentfinder.com/Texas/Austin-Apartments/527-Cutty-Trl-Apartments-5ekqe3q,1.1944444444444444
+1170,978, Austin, 14300 Tandem Blvd Austin TX 78728, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Cottages-At-Wells-Branch-Apartments,1.196319018404908
+1048,875, Austin, 5800 Techni Center Dr Austin TX 78721, https://www.apartmentfinder.com/Texas/Austin-Apartments/Fort-Branch-At-Trumans-Landing-Apartments,1.1977142857142857
+1192,995, Pflugerville, 14000 The Lakes Blvd Pflugerville TX 78660, https://www.apartmentfinder.com/Texas/Pflugerville-Apartments/The-Oaks-At-Techridge-Apartments,1.1979899497487436
+970,809, Austin, 2401 San Gabriel St Austin TX 78705, https://www.apartmentfinder.com/Texas/Austin-Apartments/Regents-At-West-24th-Apartments-5lvn5gm,1.1990111248454882
+1149,958, Round Rock, 309 Monterey Pines Dr Round Rock TX 78664, https://www.apartmentfinder.com/Texas/Round-Rock-Apartments/309-Monterey-Pines-Dr-Apartments-mmphwdh,1.1993736951983298
+1149,958, Round Rock, 405 Pasadera Ln Round Rock TX 78664, https://www.apartmentfinder.com/Texas/Round-Rock-Apartments/405-Pasadera-Ln-Apartments-nk6b1rn,1.1993736951983298
+895,746, Austin, 13359 Pond Springs Rd Austin TX 78729, https://www.apartmentfinder.com/Texas/Austin-Apartments/Hidden-Timber-Apartments,1.1997319034852547
+1055,878, Austin, 9801 Stonelake Blvd Austin TX 78759, https://www.apartmentfinder.com/Texas/Austin-Apartments/Arboretum-At-Stonelake-Apartments,1.2015945330296127
+925,768, Georgetown, 600 Luther Dr Georgetown TX 78628, https://www.apartmentfinder.com/Texas/Georgetown-Apartments/Indian-Creek-Apartments,1.2044270833333333
+995,825, Austin, 125 Woodward St Austin TX 78704, https://www.apartmentfinder.com/Texas/Austin-Apartments/St-Edwards-Place-Apartments-69f7fjr,1.206060606060606
+1152,955, Austin, 13425 N FM 620 Austin TX 78717, https://www.apartmentfinder.com/Texas/Austin-Apartments/Griffis-Lakeline-Station-Apartments,1.206282722513089
+995,824, Austin, 1044 Camino La Costa Austin TX 78752, https://www.apartmentfinder.com/Texas/Austin-Apartments/Mackenzie-Pointe-Apartments,1.2075242718446602
+1100,910, Austin, 2606 Wheless Ln Austin TX 78723, https://www.apartmentfinder.com/Texas/Austin-Apartments/Velo-Flats-Apartments-b210hj9,1.2087912087912087
+1099,908, Austin, 12118 Walnut Park Xing Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/Limestone-Canyon-Apartments,1.210352422907489
+903,746, Austin, 12300 Hymeadow Dr Austin TX 78750, https://www.apartmentfinder.com/Texas/Austin-Apartments/Chesapeake-Apartments,1.210455764075067
+1134,936, Austin, 3500 Greystone Dr Austin TX 78731, https://www.apartmentfinder.com/Texas/Austin-Apartments/Juniper-Springs-Concierge-Community-Apartments,1.2115384615384615
+1070,883, Austin, 11511 Metric Blvd Austin TX 78758, https://www.apartmentfinder.com/Texas/Austin-Apartments/Trails-Of-Walnut-Creek-Apartments-6phdmmt,1.2117780294450735
+1160,957, Leander, 1680 Hero Way Leander TX 78641, https://www.apartmentfinder.com/Texas/Leander-Apartments/The-Standard-At-Leander-Station-Apartments-z4fnzry,1.2121212121212122
+940,775, Austin, 3706 Goodwin Ave Austin TX 78721, https://www.apartmentfinder.com/Texas/Austin-Apartments/Goodwin-Apartments,1.2129032258064516
+971,800, Austin, 2005 Willow Creek Dr Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/Avesta-South-Shore-Apartments-w4vdwvl,1.21375
+987,813, Austin, 9500 Dessau Rd Austin TX 78754, https://www.apartmentfinder.com/Texas/Austin-Apartments/9500-Apartments-kyfg37b,1.2140221402214022
+1065,875, Austin, 1200 Mearns Meadow Blvd Austin TX 78758, https://www.apartmentfinder.com/Texas/Austin-Apartments/Amor-Apartments-mrd445h,1.217142857142857
+1030,846, Austin, 7607 Blessing Ave Austin TX 78752, https://www.apartmentfinder.com/Texas/Austin-Apartments/Vue-Apartments,1.2174940898345155
+1135,932, Austin, 6607 Brodie Ln Austin TX 78745, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Park-On-Brodie-Lane-Apartments-dt5q15l,1.2178111587982832
+1150,944, Austin, 11700 Metric Blvd Austin TX 78758, https://www.apartmentfinder.com/Texas/Austin-Apartments/Lincoln-Oaks-Apartments,1.2182203389830508
+1194,980, Austin, 12000 Dessau Rd Austin TX 78754, https://www.apartmentfinder.com/Texas/Austin-Apartments/Marquis-At-Canyon-Ridge-Apartments,1.2183673469387755
+1200,983, Austin, 6001 Shepherd Mountain Cv Austin TX 78730, https://www.apartmentfinder.com/Texas/Austin-Apartments/Bridgehead-Apartments,1.2207527975584944
+1099,900, Austin, 2200 W North Loop Blvd Austin TX 78756, https://www.apartmentfinder.com/Texas/Austin-Apartments/Kensington-Green-Apartments,1.221111111111111
+1039,850, Round Rock, 1200 S Mays St Round Rock TX 78664, https://www.apartmentfinder.com/Texas/Round-Rock-Apartments/Derby-Park-Apartments-g2w144x,1.2223529411764706
+1096,896, Austin, 13355 N US Highway 183 Austin TX 78750, https://www.apartmentfinder.com/Texas/Austin-Apartments/Toscana-Apartments,1.2232142857142858
+1149,939, Austin, 1900 Burton Dr Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/Easton-Hills-Apartments,1.2236421725239617
+1183,966, Austin, 8038 Exchange Dr Austin TX 78752, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Reserve-At-Walnut-Creek-Apartments,1.2246376811594204
+1129,920, Austin, 10000 N Lamar Blvd Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/Copper-Mill-Apartments,1.2271739130434782
+975,793, Austin, 7610 Cameron Rd Austin TX 78752, https://www.apartmentfinder.com/Texas/Austin-Apartments/Wildwood-Apartments,1.2295081967213115
+1200,975, Austin, 3625 S 1st St Austin TX 78704, https://www.apartmentfinder.com/Texas/Austin-Apartments/Oak-Grove-Apartments,1.2307692307692308
+1139,925, Austin, 1817 E Oltorf St Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Social-Apartments,1.2313513513513514
+1069,868, Round Rock, 20404 Poppy Hills Trl Round Rock TX 78664, https://www.apartmentfinder.com/Texas/Round-Rock-Apartments/Links-At-Forest-Creek-Apartments,1.2315668202764978
+1030,836, Austin, 2707 Rio Grande St Austin TX 78705, https://www.apartmentfinder.com/Texas/Austin-Apartments/Cameron-House-Apartments,1.2320574162679425
+1171,950, Austin, 3605 Steck Ave Austin TX 78759, https://www.apartmentfinder.com/Texas/Austin-Apartments/Le-Montreaux-Apartments,1.2326315789473685
+1085,880, Austin, 6855 E Highway 290 Austin TX 78723, https://www.apartmentfinder.com/Texas/Austin-Apartments/Menlo-At-Mueller-Apartments-ldyn15e,1.2329545454545454
+1110,900, Austin, 2425 E Riverside Dr Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/Mountain-Ranch-Apartments,1.2333333333333334
+1050,851, Austin, 7200 Duval St Austin TX 78752, https://www.apartmentfinder.com/Texas/Austin-Apartments/St-Johns-Square-Apartments,1.2338425381903644
+1025,830, Austin, 1711 Rutland Dr Austin TX 78758, https://www.apartmentfinder.com/Texas/Austin-Apartments/Villas-Del-Sol-Apartments,1.2349397590361446
+1048,848, Austin, 7000 Decker Ln Austin TX 78724, https://www.apartmentfinder.com/Texas/Austin-Apartments/Huntington-Meadows-Apartments,1.2358490566037736
+1035,836, Austin, 709 W 22nd St Austin TX 78705, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Sterling-House-Apartments,1.2380382775119618
+1139,917, Austin, 4911 Manchaca Rd Austin TX 78745, https://www.apartmentfinder.com/Texas/Austin-Apartments/Stony-Creek-Apartments,1.242093784078517
+1195,962, Round Rock, 401 Teravista Pky Round Rock TX 78665, https://www.apartmentfinder.com/Texas/Round-Rock-Apartments/401-Teravista-Apartments-jcr9vv5,1.2422037422037422
+999,804, Austin, 7905 San Felipe Blvd Austin TX 78729, https://www.apartmentfinder.com/Texas/Austin-Apartments/Summer-Grove-Apartments,1.242537313432836
+1150,925, Austin, 903 Romeria Dr Austin TX 78757, https://www.apartmentfinder.com/Texas/Austin-Apartments/903-Romeria-Dr-Apartments-b729zb9,1.2432432432432432
+995,800, Austin, 2301 Ohlen Rd Austin TX 78757, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Oasis-Apartments-g4wn01z,1.24375
+995,800, Austin, 11519 Pecan Creek Pky Austin TX 78750, https://www.apartmentfinder.com/Texas/Austin-Apartments/11519-Pecan-Creek-Pky-Apartments-9b4nds5,1.24375
+995,800, Austin, 11519 Pecan Creek Pky Austin TX 78750, https://www.apartmentfinder.com/Texas/Austin-Apartments/11519-Pecan-Creek-Pky-Apartments-74tr4sx,1.24375
+979,787, Austin, 1804 W Rundberg Ln Austin TX 78758, https://www.apartmentfinder.com/Texas/Austin-Apartments/Feliz-Apartments,1.2439644218551462
+1058,850, Austin, 1001 Collinwood West Dr Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/Village-At-Collinwood-Apartments,1.244705882352941
+1080,867, Austin, 4701 Staggerbrush Rd Austin TX 78749, https://www.apartmentfinder.com/Texas/Austin-Apartments/Monterey-Ranch-Apartments,1.245674740484429
+1049,840, Austin, 2200 S Pleasant Valley Rd Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/Metropolis-Apartments,1.2488095238095238
+1169,934, Austin, 9001 Amberglen Blvd Austin TX 78729, https://www.apartmentfinder.com/Texas/Austin-Apartments/Camden-Amber-Oaks-Apartments,1.2516059957173447
+1075,857, Austin, 11951 Sunhillow Bnd Austin TX 78758, https://www.apartmentfinder.com/Texas/Austin-Apartments/11951-Sunhillow-Bnd-Apartments-x93qlen,1.2543757292882147
+989,787, Austin, 9329 Northgate Blvd Austin TX 78758, https://www.apartmentfinder.com/Texas/Austin-Apartments/9329-Northgate-Blvd-Apartments-rs2m1q2,1.2566709021601017
+1100,875, Austin, 709 Lamar Pl Austin TX 78752, https://www.apartmentfinder.com/Texas/Austin-Apartments/Lamar-Oaks-Apartments-nvfmrvp,1.2571428571428571
+1161,923, Austin, 3701 Quick Hill Rd Austin TX 78728, https://www.apartmentfinder.com/Texas/Austin-Apartments/Broadstone-Travesia-Apartments,1.2578548212351028
+1000,795, Austin, 3212 Red River St Austin TX 78705, https://www.apartmentfinder.com/Texas/Austin-Apartments/Casa-Del-Rio-Apartments,1.2578616352201257
+1120,890, Austin, 7201 Hart Ln Austin TX 78731, https://www.apartmentfinder.com/Texas/Austin-Apartments/Acacia-Cliffs-Apartments,1.2584269662921348
+750,595, Austin, 1630 Rutland Dr Austin TX 78758, https://www.apartmentfinder.com/Texas/Austin-Apartments/Meadows-Edge-Apartments-cxrctqf,1.2605042016806722
+1034,820, Austin, 702 W 25th St Austin TX 78705, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Block-On-25th-East-Apartments-pt1mpts,1.2609756097560976
+1125,892, Austin, 3200 S 1st St Austin TX 78704, https://www.apartmentfinder.com/Texas/Austin-Apartments/Stoney-Ridge-Apartments,1.2612107623318385
+1195,946, Austin, 3220 Duval Rd Austin TX 78759, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Barrington-At-Park-Place-Apartments,1.263213530655391
+1185,937, Pflugerville, 16520 Yellow Sage St Pflugerville TX 78660, https://www.apartmentfinder.com/Texas/Pflugerville-Apartments/The-Cove-At-Heatherwilde-Apartments-60gjsfs,1.264674493062967
+949,750, Georgetown, 209 Luther Dr Georgetown TX 78628, https://www.apartmentfinder.com/Texas/Georgetown-Apartments/Georgetown-Park-Apartments,1.2653333333333334
+1025,810, Austin, 4411 Airport Blvd Austin TX 78722, https://www.apartmentfinder.com/Texas/Austin-Apartments/Wilshire-West-Apartments,1.2654320987654322
+1180,932, Austin, 1919 Burton Dr Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/English-Aire-Apartments,1.2660944206008584
+925,730, Austin, 7201 Wood Hollow Dr Austin TX 78731, https://www.apartmentfinder.com/Texas/Austin-Apartments/Avistar-At-Wood-Hollow-Apartments-v34pd3e,1.2671232876712328
+1095,861, Austin, 1203 Southport Dr Austin TX 78704, https://www.apartmentfinder.com/Texas/Austin-Apartments/1203-Southport-Dr-Apartments-xjgjftp,1.2717770034843205
+1079,846, Austin, 7631 US Hwy 290 W Austin TX 78736, https://www.apartmentfinder.com/Texas/Austin-Apartments/Vineyard-Hills-Apartments,1.2754137115839244
+1109,868, Round Rock, 20413 Poppy Hills Trl Round Rock TX 78664, https://www.apartmentfinder.com/Texas/Round-Rock-Apartments/20413-Poppy-Hills-Trl-Apartments-wwnqt7k,1.2776497695852536
+1109,868, Round Rock, 405 Pasadera Ln Round Rock TX 78664, https://www.apartmentfinder.com/Texas/Round-Rock-Apartments/405-Pasadera-Ln-Apartments-1r2t6g4,1.2776497695852536
+1109,868, Round Rock, 20417 Poppy Hills Trl Round Rock TX 78664, https://www.apartmentfinder.com/Texas/Round-Rock-Apartments/20417-Poppy-Hills-Trl-Apartments-n2zqr7q,1.2776497695852536
+1150,900, Austin, 7020 Grand Canyon Dr Austin TX 78752, https://www.apartmentfinder.com/Texas/Austin-Apartments/7020-Grand-Canyon-Dr-Apartments-qqwqfsw,1.2777777777777777
+1089,851, Austin, 2310 Wickersham Ln Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/Verde-Apartments,1.2796709753231492
+1099,858, Austin, 2001 I-35 S Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Cliffs-Apartments,1.280885780885781
+1173,912, Austin, 5800 Brodie Ln Austin TX 78745, https://www.apartmentfinder.com/Texas/Austin-Apartments/Grand-Reserve-At-Sunset-Valley-Apartments,1.2861842105263157
+1099,854, Austin, 2215 Rio Grande St Austin TX 78705, https://www.apartmentfinder.com/Texas/Austin-Apartments/Twenty-Two-15-Apartments,1.2868852459016393
+1107,860, Austin, 1911 Willow Creek Dr Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/1911-Willow-Creek-Dr-Apartments-n7q8tgn,1.2872093023255815
+1145,889, Round Rock, 1500 S Interstate 35 S Round Rock TX 78681, https://www.apartmentfinder.com/Texas/Round-Rock-Apartments/Rock-35-Apartments-3220vqe,1.2879640044994376
+1055,816, Austin, 9024 Northgate Blvd Austin TX 78758, https://www.apartmentfinder.com/Texas/Austin-Apartments/Northgate-Hills-Apts-Apartments-0wjz5n1,1.2928921568627452
+1175,908, Austin, 305 E Yager Ln Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/Oxford-At-Tech-Ridge-Apartments,1.2940528634361232
+1100,850, Austin, 6409 Burns St Austin TX 78752, https://www.apartmentfinder.com/Texas/Austin-Apartments/Circle-Oaks-II-Apartments,1.2941176470588236
+1100,850, Austin, 1203 W 49th St Austin TX 78756, https://www.apartmentfinder.com/Texas/Austin-Apartments/1203-W-49th-St-Apartments-04k3ys2,1.2941176470588236
+1112,854, Round Rock, 1210 Westcott Dr Round Rock TX 78664, https://www.apartmentfinder.com/Texas/Round-Rock-Apartments/1210-Westcott-Dr-Apartments-m792znh,1.3021077283372364
+1200,916, Austin, 1401 Saint Edwards Dr Austin TX 78704, https://www.apartmentfinder.com/Texas/Austin-Apartments/Forest-Creek-Apartments,1.3100436681222707
+1199,915, Austin, 3524 Greystone Dr Austin TX 78731, https://www.apartmentfinder.com/Texas/Austin-Apartments/Greystone-Flats-Apartments-4x0jf5h,1.3103825136612022
+995,758, Austin, 2414 Ventura Dr Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/Burl-Apartments,1.312664907651715
+1199,913, Austin, 12800 Turtle Rock Rd Austin TX 78729, https://www.apartmentfinder.com/Texas/Austin-Apartments/Villages-At-Turtle-Rock-Apartments,1.3132530120481927
+1150,874, Austin, 3603 Southridge Dr Austin TX 78704, https://www.apartmentfinder.com/Texas/Austin-Apartments/Bainbridge-Villas-Apartments,1.3157894736842106
+949,719, Round Rock, 2100 Willowbend Dr Round Rock TX 78664, https://www.apartmentfinder.com/Texas/Round-Rock-Apartments/Foxfire-Apartments,1.3198887343532684
+1083,820, Cedar Park, 2800 S Lakeline Blvd Cedar Park TX 78613, https://www.apartmentfinder.com/Texas/Cedar-Park-Apartments/Marquis-On-Lakeline-Apartments-fggkmvv,1.3207317073170732
+1158,875, Austin, 9617 Great Hills Trl Austin TX 78759, https://www.apartmentfinder.com/Texas/Austin-Apartments/Arboretum-Oaks-Apartments,1.3234285714285714
+1126,850, Austin, 10707 Lake Creek Pky Austin TX 78750, https://www.apartmentfinder.com/Texas/Austin-Apartments/Avesta-Lake-Creek-Apartments-c16d67f,1.3247058823529412
+1195,900, Austin, 1914 Gracy Farms Ln Austin TX 78758, https://www.apartmentfinder.com/Texas/Austin-Apartments/1914-Gracy-Farms-Ln-Apartments-6d2sc1s,1.3277777777777777
+1020,768, Round Rock, 2001 Magnolia Dr Round Rock TX 78664, https://www.apartmentfinder.com/Texas/Round-Rock-Apartments/2001-Magnolia-Dr-Apartments-m24g2eh,1.328125
+1075,807, Austin, 8617 Spicewood Springs Rd Austin TX 78759, https://www.apartmentfinder.com/Texas/Austin-Apartments/Spicewood-Springs-Apartments,1.332094175960347
+1200,900, Austin, 8505-8525 Shoal Creek Blvd Austin TX 78757, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Arcadian-Apartments-w2b268j,1.3333333333333333
+1087,813, Austin, 6805 Woodhollow Dr Austin TX 78731, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Ridge-Apartments,1.3370233702337024
+1075,800, Austin, 8624 Fireside Dr Austin TX 78757, https://www.apartmentfinder.com/Texas/Austin-Apartments/8624-Fireside-Dr-Apartments-rere7s2,1.34375
+1195,889, Austin, 12223 Tyson Cv Austin TX 78758, https://www.apartmentfinder.com/Texas/Austin-Apartments/12223-Tyson-Cv-Apartments-nw8psfn,1.3442069741282339
+1195,888, Austin, 12226 Tyson Cv Austin TX 78758, https://www.apartmentfinder.com/Texas/Austin-Apartments/12226-Tyson-Cv-Apartments-dvbdgpk,1.3457207207207207
+1135,842, Austin, 5001 Convict Hill Rd Austin TX 78749, https://www.apartmentfinder.com/Texas/Austin-Apartments/Nichols-Park-Apartment-Homes-Apartments,1.347980997624703
+1155,856, Austin, 306 Rundberg Ln W Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/Northchase-Apartments,1.3492990654205608
+1100,814, Austin, 6408 Burns St Austin TX 78752, https://www.apartmentfinder.com/Texas/Austin-Apartments/Daniel-Lamar-Place-Apartments,1.3513513513513513
+1150,850, Austin, 1203 W 49th St Austin TX 78756, https://www.apartmentfinder.com/Texas/Austin-Apartments/1203-W-49th-St-Apartments-tdvyx7b,1.3529411764705883
+1150,850, Austin, 1203 W 49th St Austin TX 78756, https://www.apartmentfinder.com/Texas/Austin-Apartments/1203-W-49th-St-Apartments-drjx6rh,1.3529411764705883
+1005,742, Austin, 3517 N Hills Dr Austin TX 78731, https://www.apartmentfinder.com/Texas/Austin-Apartments/Oak-Ridge-Apartments,1.3544474393530996
+1000,738, Austin, 3302 Vintage Hills Cove Austin TX 78723, https://www.apartmentfinder.com/Texas/Austin-Apartments/3302-Vintage-Hills-Cove-Apartments-c0znsfe,1.3550135501355014
+1000,738, Austin, 3302 Vintage Hills Cv Austin TX 78723, https://www.apartmentfinder.com/Texas/Austin-Apartments/3302-Vintage-Hills-Cv-Apartments-gplb9xx,1.3550135501355014
+1149,844, Austin, 2016 Park Bend Dr Austin TX 78758, https://www.apartmentfinder.com/Texas/Austin-Apartments/Twenty15-Apartments-83jrzh3,1.3613744075829384
+1108,812, Austin, 8312 Fathom Cir Austin TX 78750, https://www.apartmentfinder.com/Texas/Austin-Apartments/Laurel-Woods-Apartments,1.3645320197044335
+1089,798, Austin, 7920 San Felipe Blvd Austin TX 78729, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Flats-On-San-Felipe-Apartments,1.3646616541353382
+1165,853, Austin, 10101 W Parmer Ln Austin TX 78717, https://www.apartmentfinder.com/Texas/Austin-Apartments/Griffis-Parmer-Lane-Apartments,1.3657678780773739
+1050,768, Austin, 615 St Johns Ave W Austin TX 78752, https://www.apartmentfinder.com/Texas/Austin-Apartments/Midtown-Flats-Apartments-f7vmt7s,1.3671875
+995,725, Austin, 600 E 53rd St Austin TX 78751, https://www.apartmentfinder.com/Texas/Austin-Apartments/District-53-Apartments,1.3724137931034484
+1100,800, Austin, 915 E 41st St Austin TX 78751, https://www.apartmentfinder.com/Texas/Austin-Apartments/915-E-41st-St-Apartments-1ll61q6,1.375
+1100,798, Austin, 1521 Reagan Hill Dr Austin TX 78752, https://www.apartmentfinder.com/Texas/Austin-Apartments/Val-Dor-Urban-Flats-Apartments-b9e21xb,1.3784461152882206
+1200,870, Austin, 3622 Manchaca Rd Austin TX 78704, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Gallery-Apartments,1.3793103448275863
+1104,800, Austin, 7900 San Felipe Blvd Austin TX 78729, https://www.apartmentfinder.com/Texas/Austin-Apartments/Sona-Apartments,1.38
+1179,850, Round Rock, 1500 Lawnmont Dr Round Rock TX 78664, https://www.apartmentfinder.com/Texas/Round-Rock-Apartments/Belmont-Place-Apartments-pd42brs,1.3870588235294117
+1181,850, Austin, 1781 Spyglass Dr Austin TX 78746, https://www.apartmentfinder.com/Texas/Austin-Apartments/Landmark-At-Barton-Creek-Apartment-Homes-Apartments-gvlrh6w,1.3894117647058823
+1099,790, Austin, 1300 Spyglass Dr Austin TX 78746, https://www.apartmentfinder.com/Texas/Austin-Apartments/Skyline-At-Barton-Creek-Apartments-wz2f4el,1.3911392405063292
+1125,808, Austin, 1100 Reinli St Austin TX 78723, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Legacy-Apartments,1.3923267326732673
+1050,750, Austin, 2706 Wheless Ln Austin TX 78723, https://www.apartmentfinder.com/Texas/Austin-Apartments/2706-Wheless-Ln-Apartments-pdjt86r,1.4
+1025,732, Austin, 702 Lamar Pl Austin TX 78752, https://www.apartmentfinder.com/Texas/Austin-Apartments/Austin-Lamar-Place-Apartments,1.400273224043716
+1025,730, Austin, 6309 Burns St Austin TX 78752, https://www.apartmentfinder.com/Texas/Austin-Apartments/Lamar-Place-Apartments-j4bkxy6,1.404109589041096
+1144,813, Austin, 4009 Victory Dr Austin TX 78704, https://www.apartmentfinder.com/Texas/Austin-Apartments/Mission-James-Place-Apartments,1.4071340713407134
+1099,780, Austin, 6701 Silvermine Dr Austin TX 78736, https://www.apartmentfinder.com/Texas/Austin-Apartments/Valley-View-Apartments,1.408974358974359
+1199,846, Austin, 2604 Manor Rd Austin TX 78722, https://www.apartmentfinder.com/Texas/Austin-Apartments/Volume-2-Apartments,1.41725768321513
+1197,844, Austin, 2015 Cedar Bend Dr Austin TX 78758, https://www.apartmentfinder.com/Texas/Austin-Apartments/2015-Cedar-Bend-Dr-Apartments-q4r84nx,1.4182464454976302
+1183,825, Austin, 2239 Cromwell Cir Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/Hawthorne-At-The-District-Apartments,1.4339393939393938
+1200,832, Austin, 604-612 Franklin Blvd Austin TX 78751, https://www.apartmentfinder.com/Texas/Austin-Apartments/Franklin-Flats-Apartments,1.4423076923076923
+1095,750, Austin, 311 E 31st St Austin TX 78705, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Palisades-Apartments-ytpfdmr,1.46
+1095,750, Austin, 307 E 31st St Austin TX 78705, https://www.apartmentfinder.com/Texas/Austin-Apartments/307-E-31st-St-Apartments-6tlvbjs,1.46
+1095,750, Austin, 307 E 31st St Austin TX 78705, https://www.apartmentfinder.com/Texas/Austin-Apartments/307-E-31st-St-Apartments-qkkh2vz,1.46
+1066,730, Austin, 8071 N Lamar Blvd Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/Santa-Maria-Village-Apartments,1.4602739726027398
+1200,820, Austin, 2408 Leon St Austin TX 78705, https://www.apartmentfinder.com/Texas/Austin-Apartments/Lone-Star-Lofts-Apartments-vk4vwwf,1.4634146341463414
+1185,797, Austin, 2100 San Antonio St Austin TX 78705, https://www.apartmentfinder.com/Texas/Austin-Apartments/University-House-Austin-Apartments-d4613kk,1.4868255959849435
+1195,800, Austin, 926 E Dean Keeton St Austin TX 78705, https://www.apartmentfinder.com/Texas/Austin-Apartments/926-E-Dean-Keeton-St-Apartments-zs9n37x,1.49375
+1190,796, Austin, 1500 Crossing Pl Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/Belara-Apartments-1z82zt4,1.4949748743718594
+1138,750, Austin, 8600 N Lamar Blvd Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Palms-On-Lamar-Apartments,1.5173333333333334
+1175,774, Austin, 4100 Victory Dr Austin TX 78704, https://www.apartmentfinder.com/Texas/Austin-Apartments/Tramor-At-Victory-Place-Apartments,1.5180878552971577
+1080,700, Austin, 1824 S Interstate 35 Austin TX 78704, https://www.apartmentfinder.com/Texas/Austin-Apartments/The-Brook-Apartments,1.542857142857143
+1195,750, Austin, 4715 Harmon Ave Austin TX 78751, https://www.apartmentfinder.com/Texas/Austin-Apartments/Bamboo-Court-Apartments,1.5933333333333333
+1125,700, Austin, 2202-2204 Enfield Rd Austin TX 78703, https://www.apartmentfinder.com/Texas/Austin-Apartments/Antilles-Apartments,1.6071428571428572
+1129,700, Austin, 1200 W 40th St Austin TX 78756, https://www.apartmentfinder.com/Texas/Austin-Apartments/Le-Med-Apartment-Homes-Apartments,1.6128571428571428
+1050,635, Austin, 4413 Speedway Austin TX 78751, https://www.apartmentfinder.com/Texas/Austin-Apartments/Hyde-Park-I-II-Apartments,1.6535433070866141
+1185,689, Austin, 1221 Algarita Ave Austin TX 78704, https://www.apartmentfinder.com/Texas/Austin-Apartments/Algarita-Apartments,1.7198838896952104
+1199,691, Austin, 2613 Rogers Ave Austin TX 78722, https://www.apartmentfinder.com/Texas/Austin-Apartments/2613-Rogers-Ave-Apartments-de6fgmh,1.735166425470333
+1079,600, Austin, 2212 San Gabriel St Austin TX 78705, https://www.apartmentfinder.com/Texas/Austin-Apartments/San-Gabriel-Square-Apartments,1.7983333333333333
+1100,600, Georgetown, 708 W 15th St Georgetown TX 78626, https://www.apartmentfinder.com/Texas/Georgetown-Apartments/The-Rail-At-Georgetown-Apartments-evrvnem,1.8333333333333333
+775,372, Austin, 900 W 26th St Austin TX 78705, https://www.apartmentfinder.com/Texas/Austin-Apartments/Regents-West-At-26th-Apartments-jjke7m5,2.0833333333333335
+733,1, Austin, 1601 Montopolis Dr Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/1601-Montopolis-Dr-Apartments-esfqstm,733.0
+749,1, Austin, 10401 N Lamar Blvd Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/10401-N-Lamar-Blvd-Apartments-b00gnm8,749.0
+776,1, Austin, 12151 N Interstate 35 Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/12151-N-Interstate-35-Apartments-16tyc54,776.0
+778,1, Austin, 1044 Norwood Park Blvd Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/1044-Norwood-Park-Blvd-Apartments-7plxfny,778.0
+796,1, Austin, 1705 Frontier Valley Dr Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/1705-Frontier-Valley-Dr-Apartments-l0998bd,796.0
+833,1, Austin, 12403 Mellow Meadow Dr Austin TX 78750, https://www.apartmentfinder.com/Texas/Austin-Apartments/12403-Mellow-Meadow-Dr-Apartments-b3xpmyb,833.0
+875,1, Austin, 8408 N Interstate 35 Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/8408-N-Interstate-35-Apartments-m2jzfrl,875.0
+895,1, Austin, 8805 North Plz Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/8805-North-Plz-Apartments-xeyflln,895.0
+895,1, Austin, 2401 Longview St Austin TX 78705, https://www.apartmentfinder.com/Texas/Austin-Apartments/2401-Longview-St-Apartments-wd8tv0k,895.0
+900,1, Austin, 8220 Research Blvd Austin TX 78758, https://www.apartmentfinder.com/Texas/Austin-Apartments/8220-Research-Blvd-Apartments-pj7lm5r,900.0
+900,1, Austin, 615 E Wonsley Dr Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/615-E-Wonsley-Dr-Apartments-qvd8ylz,900.0
+900,1, Austin, 1911 Willow Creek Dr Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/1911-Willow-Creek-Dr-Apartments-y175ekv,900.0
+905,1, Austin, 1715 Guadalupe St Austin TX 78701, https://www.apartmentfinder.com/Texas/Austin-Apartments/1715-Guadalupe-St-Apartments-nxfetpp,905.0
+919,1, Austin, 701 W Longspur Blvd Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/701-W-Longspur-Blvd-Apartments-s016ez6,919.0
+925,1, Austin, 12166 Metric Blvd Austin TX 78758, https://www.apartmentfinder.com/Texas/Austin-Apartments/12166-Metric-Blvd-Apartments-ven4r6e,925.0
+925,1, Austin, 10616 Mellow Mdws Austin TX 78750, https://www.apartmentfinder.com/Texas/Austin-Apartments/10616-Mellow-Mdws-Apartments-cfbes0g,925.0
+930,1, Austin, 9600 Woodvale Dr Austin TX 78729, https://www.apartmentfinder.com/Texas/Austin-Apartments/9600-Woodvale-Dr-Apartments-6b2gdps,930.0
+940,1, Austin, 1601 E Anderson Ln Austin TX 78752, https://www.apartmentfinder.com/Texas/Austin-Apartments/1601-E-Anderson-Ln-Apartments-h6khpx0,940.0
+940,1, Austin, 406 E 30th St Austin TX 78705, https://www.apartmentfinder.com/Texas/Austin-Apartments/406-E-30th-St-Apartments-w22st4j,940.0
+943,1, Austin, 9807 N FM 620 Austin TX 78726, https://www.apartmentfinder.com/Texas/Austin-Apartments/9807-N-Fm-620-Apartments-0e4w290,943.0
+945,1, Austin, 1715 Guadalupe St Austin TX 78701, https://www.apartmentfinder.com/Texas/Austin-Apartments/1715-Guadalupe-St-Apartments-w9mhr8j,945.0
+946,1, Austin, 2000 Woodward St Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/2000-Woodward-St-Apartments-q95p5kx,946.0
+969,1, Austin, 8600 N FM 620 Austin TX 78726, https://www.apartmentfinder.com/Texas/Austin-Apartments/8600-N-Fm-620-Apartments-yqg2hjs,969.0
+980,1, Austin, 8001 W Highway 71 Austin TX 78735, https://www.apartmentfinder.com/Texas/Austin-Apartments/8001-W-Highway-71-Apartments-40jvc3k,980.0
+995,1, Austin, 3460 Willowrun Dr Austin TX 78704, https://www.apartmentfinder.com/Texas/Austin-Apartments/3460-Willowrun-Dr-Apartments-3zzk27g,995.0
+995,1, Austin, 11519 Pecan Creek Pky Austin TX 78750, https://www.apartmentfinder.com/Texas/Austin-Apartments/11519-Pecan-Creek-Pky-Apartments-y8fkgfv,995.0
+995,1, Austin, 2706 Cole St Austin TX 78705, https://www.apartmentfinder.com/Texas/Austin-Apartments/2706-Cole-St-Apartments-74sfgzx,995.0
+1025,1, Austin, 4021 Steck Ave Austin TX 78759, https://www.apartmentfinder.com/Texas/Austin-Apartments/4021-Steck-Ave-Apartments-6t4r9vv,1025.0
+1025,1, Austin, 8605 Shoal Creek Blvd Austin TX 78757, https://www.apartmentfinder.com/Texas/Austin-Apartments/8605-Shoal-Creek-Blvd-Apartments-wwks1tl,1025.0
+1034,1, Austin, 4821 E Riverside Dr Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/4821-E-Riverside-Dr-Apartments-p4ke8dr,1034.0
+1050,1, Round Rock, 1212 Sam Bass Cir Round Rock TX 78681, https://www.apartmentfinder.com/Texas/Round-Rock-Apartments/1212-Sam-Bass-Cir-Apartments-bym69j9,1050.0
+1090,1, Austin, 2510 Elmont Dr Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/2510-Elmont-Dr-Apartments-58k035m,1090.0
+1095,1, Austin, 1203 W 49th St Austin TX 78756, https://www.apartmentfinder.com/Texas/Austin-Apartments/1203-W-49th-St-Apartments-0tedf51,1095.0
+1099,1, Austin, 8615 Rockwood Ln Austin TX 78757, https://www.apartmentfinder.com/Texas/Austin-Apartments/8615-Rockwood-Ln-Apartments-hcgn6q1,1099.0
+1100,1, Austin, 901 E 40th St Austin TX 78751, https://www.apartmentfinder.com/Texas/Austin-Apartments/901-E-40th-St-Apartments-s9z1yl5,1100.0
+1105,1, Austin, 1818 S Lakeshore Blvd Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/1818-S-Lakeshore-Blvd-Apartments-qcbxj0w,1105.0
+1110,1, Austin, 2101 W Anderson Ln Austin TX 78757, https://www.apartmentfinder.com/Texas/Austin-Apartments/2101-W-Anderson-Ln-Apartments-qxxnxfz,1110.0
+1125,1, Austin, 1400 E 51st St Austin TX 78723, https://www.apartmentfinder.com/Texas/Austin-Apartments/1400-E-51st-St-Apartments-fx7hyrt,1125.0
+1135,1, Austin, 8001 N Interstate 35 Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/8001-N-Interstate-35-Apartments-1ml0h46,1135.0
+1145,1, Austin, 400 W Saint Elmo Rd Austin TX 78745, https://www.apartmentfinder.com/Texas/Austin-Apartments/400-W-Saint-Elmo-Rd-Apartments-rgg40l1,1145.0
+1150,1, Austin, 1802 Fairlawn Ln Austin TX 78704, https://www.apartmentfinder.com/Texas/Austin-Apartments/1802-Fairlawn-Ln-Apartments-8jkyy83,1150.0
+1150,1, Austin, 109 W 39th St Austin TX 78751, https://www.apartmentfinder.com/Texas/Austin-Apartments/109-W-39th-St-Apartments-bcp848b,1150.0
+1150,1, Austin, 1304 Summit St Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/1304-Summit-St-Apartments-yn4ykps,1150.0
+1168,1, Austin, 1630 Wells Branch Pky Austin TX 78728, https://www.apartmentfinder.com/Texas/Austin-Apartments/1630-Wells-Branch-Pky-Apartments-fbrjsmv,1168.0
+1175,1, Austin, 407 E 45th St Austin TX 78751, https://www.apartmentfinder.com/Texas/Austin-Apartments/407-E-45th-St-Apartments-p57hnzs,1175.0
+1186,1, Austin, 3500 Greystone Dr Austin TX 78731, https://www.apartmentfinder.com/Texas/Austin-Apartments/3500-Greystone-Dr-Apartments-r6q6xl0,1186.0
+1195,1, Austin, 1304 Summit St Austin TX 78741, https://www.apartmentfinder.com/Texas/Austin-Apartments/1304-Summit-St-Apartments-s2v3et5,1195.0
+1198,1, Austin, 8301 N Interstate 35 Austin TX 78753, https://www.apartmentfinder.com/Texas/Austin-Apartments/8301-N-Interstate-35-Apartments-fwp66ft,1198.0
+1199,1, Austin, 2703 Swisher St Austin TX 78705, https://www.apartmentfinder.com/Texas/Austin-Apartments/2703-Swisher-St-Apartments-zn7skfw,1199.0
